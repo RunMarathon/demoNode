@@ -1,4 +1,4 @@
-import { validateEmail } from "./validation.js";
+//import { validateEmail } from "./validation.js";
 
 /**
  * Some predefined delay values (in milliseconds).
@@ -37,6 +37,4 @@ export async function greeter(name: any) { // eslint-disable-line @typescript-es
 console.log('Hello, world!');
 console.log(greeter('John'));
 
-// test validation
-console.log(validateEmail('john@example.de')); // false
 
