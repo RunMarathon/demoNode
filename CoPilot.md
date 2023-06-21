@@ -42,4 +42,12 @@ const countries={}
 
 ## Co-Pilot X
 
-gh.io/copilot
+gh.io/copilotx
+
+* Chat - context sensitive conversations with copilot to explain code, fix issues, create unit tests, expplain technical details
+
+* Docs - Search through documentation
+
+* Pull Requests - create description based on commits, check code, add missing tests
+
+* CLI - ask for copilot commands (syntax, sample)
