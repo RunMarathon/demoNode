@@ -6,7 +6,7 @@ export function check email format
 export singelton class which exposes Tealium methods
 export singelton class which exposes Date methods
 
-regex to match the phone numnber in the format +xx (xxx) xxxx-xxxx
+regex to match the phone number in the format +xx (xxx) xxxx-xxxx
 
 test phoneRegex against the phone number with console.log
 

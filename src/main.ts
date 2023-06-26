@@ -38,3 +38,4 @@ console.log('Hello, world!');
 console.log(greeter('John'));
 
 
+// function that checks the physical length of a string in the DOM
