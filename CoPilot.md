@@ -55,7 +55,9 @@ gh.io/copilotx
 ## Links
 
 https://github.com/features/copilot
+
 https://resources.github.com/copilot-demo/
+
 https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/
 
 https://www.youtube.com/watch?v=s7AGkcSMiaI
