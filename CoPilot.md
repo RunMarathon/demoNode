@@ -51,3 +51,5 @@ gh.io/copilotx
 * Pull Requests - create description based on commits, check code, add missing tests
 
 * CLI - ask for copilot commands (syntax, sample)
+
+https://resources.github.com/copilot-demo/
